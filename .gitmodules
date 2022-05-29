@@ -1,0 +1,6 @@
+[submodule "budget-manager-backend"]
+	path = budget-manager-backend
+	url = https://github.com/Gyver17/budget-manager-backend.git
+[submodule "budget-manager-frontend"]
+	path = budget-manager-frontend
+	url = https://github.com/Gyver17/budget-manager-frontend.git
